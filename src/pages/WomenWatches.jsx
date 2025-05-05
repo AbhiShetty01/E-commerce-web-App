@@ -1,5 +1,3 @@
-"use client"
-
 import { useEffect, useState } from "react"
 import ProductGrid from "../components/ProductGrid"
 import { getWomenWatches } from "../data/products"
